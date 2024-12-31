@@ -1,0 +1,13 @@
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC_001.verify_account_registration()[pri:0, instance:testCases.TC_001@7a55af6b] 1055865469
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+15:12:16 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+15:12:24 [main] INFO  testCases.TC_001 - ******Starting with TC001
+15:12:24 [main] INFO  testCases.TC_001 - ******click on My account link
+15:12:24 [main] INFO  testCases.TC_001 - ******click on My Register link
+15:12:24 [main] INFO  testCases.TC_001 - ***Providing customer details
+15:12:26 [main] INFO  testCases.TC_001 - validating expected message
+15:12:26 [main] INFO  testCases.TC_001 - ......finished TC001 test

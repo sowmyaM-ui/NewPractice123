@@ -1,0 +1,15 @@
+16:41:43 [main] INFO  testCases.TC_001 - ******Starting with TC001
+16:41:44 [main] INFO  testCases.TC_001 - ******click on My account link
+16:41:45 [main] INFO  testCases.TC_001 - ******click on My Register link
+16:41:45 [main] INFO  testCases.TC_001 - ***Providing customer details
+16:41:52 [main] INFO  testCases.TC_001 - validating expected message
+16:41:53 [main] INFO  testCases.TC_001 - ......finished TC001 test
+16:58:54 [main] INFO  testCases.TC_001 - ******Starting with TC001
+16:58:55 [main] INFO  testCases.TC_001 - ******click on My account link
+16:58:56 [main] INFO  testCases.TC_001 - ******click on My Register link
+16:58:56 [main] INFO  testCases.TC_001 - ***Providing customer details
+16:59:02 [main] INFO  testCases.TC_001 - validating expected message
+16:59:03 [main] INFO  testCases.TC_001 - ......finished TC001 test
+17:21:58 [main] INFO  testCases.TC_001 - ******Starting with TC001
+17:22:02 [main] INFO  testCases.TC_001 - ******click on My account link
+17:22:02 [main] INFO  testCases.TC_001 - ******click on My Register link
